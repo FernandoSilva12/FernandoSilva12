@@ -1,16 +1,33 @@
-### Hi there 👋
+# Presentacion
+# Hola, Soy Fernando Silva
 
-<!--
-**FernandoSilva12/FernandoSilva12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
 
-Here are some ideas to get you started:
+Soy un estudiante de programación y desarrollo de software. Estoy en aprendizaje, pero espero algun dia ser un buen programador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educación
+
+- Estudiante de Programación en la Universidad Tecnologica San Rafael FRSR (4to Semestre Actualmente)
+
+
+## Contacto
+
+- Correo Electrónico: fersdiez@hotmail.com
+
+## Idiomas
+
+- Español (nativo)
+- Inglés (intermedio) 6 años 
+- Portugues (Basico) Primer Grado
+- Italiano (Basico) Primer Grado
+
+## Habilidades
+
+- Python
+- JavaScript
+- HTML/CSS
+- React
+- NODE
+
+¡Gracias por visitar mi perfil de GitHub! Siéntete libre de contactarme si tienes alguna pregunta o propuesta de colaboración.
+
